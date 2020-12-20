@@ -1,8 +1,8 @@
 # elainatiller.github.io
 File rundown:
-youtube.py was with youtube API and SQL to store all youtube indormation 
+youtube.py used youtube API, SQL, and matplotlib to store all of Joe Rogans Youtube videos information and make charts
 
-JRP2.db is the database with 2 tables, one for guests and their ids corrpesponding to main JRP table 
+JRP2.db is the database with 2 tables, one for guest and their ids corrpesponding to main JRP table 
 
 youtube.csv is all videos in a csv file for backup because the videos were removed from Youtube December 2020
 
